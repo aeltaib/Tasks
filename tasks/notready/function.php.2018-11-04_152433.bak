@@ -1,0 +1,53 @@
+<?php
+
+//main function
+ function agent_details($conn,$start_date,$end_date,$aselect)
+{
+        $sql= "SELECT AGENT_ID,EVENT,EVENT_TIME FROM datamart_agent_details WHERE EVENT_TIME>= '$start_date' and EVENT_TIME<= '$end_date' and AGENT_ID= '$aselect'";
+
+        $result= mysqli_query($conn,$sql);
+
+        if (mysqli_num_rows($result) > 0) 
+        {
+            $nrcount= 0;
+            $flag= 0;
+            $sec= 0; 
+            $time= 0;
+            $notready_time= "";
+            $otherevent_time= "";
+
+            while($row= mysqli_fetch_assoc($result)) 
+            {   
+
+                $agent_id= $row["AGENT_ID"];          
+                if ($row['EVENT']== "NOT_READY") 
+                {
+                    $nrcount++;
+                }
+
+                        if ($flag==1) 
+                        {
+                            $otherevent_time= strtotime($row["EVENT_TIME"]);
+                            $sec= $otherevent_time - $notready_time;                           
+                            
+                            $time+= $sec;  
+                            $flag= 0;       
+                        }    
+                            
+                            if ($row['EVENT']== "NOT_READY") 
+                            {
+                                $notready_time= strtotime($row["EVENT_TIME"]);
+                                $flag=1;    
+                            }       
+            }
+                       $total_time= gmdate("H:i:s", $time);
+                            
+                    echo '<tr>';
+                     echo '<td  align="center">'.$agent_id.'</td>';
+                     echo '<td  align="center">'.$nrcount.'</td>';
+                     echo '<td  align="center">'.$total_time.'</td>';
+                    echo '</tr>';                         
+        }
+}
+
+?>
