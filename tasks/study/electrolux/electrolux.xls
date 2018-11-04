@@ -1,0 +1,1346 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10005</WindowHeight>
+  <WindowWidth>10005</WindowWidth>
+  <WindowTopX>120</WindowTopX>
+  <WindowTopY>135</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <NumberFormat ss:Format="yyyy/mm/dd\ hh:mm:ss"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Table1">
+  <Table ss:ExpandedColumnCount="11" ss:ExpandedRowCount="99" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Index="2" ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="110.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="110.25" ss:Span="8"/>
+   <Row>
+    <Cell><Data ss:Type="String">DBID</Data></Cell>
+    <Cell><Data ss:Type="String">EVENT_TIME</Data></Cell>
+    <Cell><Data ss:Type="String">QUEUE</Data></Cell>
+    <Cell><Data ss:Type="String">EVENT</Data></Cell>
+    <Cell><Data ss:Type="String">TRACKNUM</Data></Cell>
+    <Cell><Data ss:Type="String">EVENTDETAILS</Data></Cell>
+    <Cell><Data ss:Type="String">QUEUE_TYPE</Data></Cell>
+    <Cell><Data ss:Type="String">ASSOCIATED_ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">ANI</Data></Cell>
+    <Cell><Data ss:Type="String">DNIS</Data></Cell>
+    <Cell><Data ss:Type="String">CHANNEL_TYPE</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926119</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:00:36</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538337626.12572</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01018500332</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926121</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:00:50</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538337639.12573</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01200390797</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926125</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:01:17</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538337666.12574</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01286909963</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926126</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:01:17</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538337667.12575</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01225625625</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926130</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:01:36</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538337686.12576</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">0237234578</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926131</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:01:41</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538337690.12577</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01200390797</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926132</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:01:45</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538337694.12578</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01033317757</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926136</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:02:00</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538337709.12579</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01015792009</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926138</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:02:03</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538337712.12580</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01005738376</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926141</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:02:08</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538337718.12581</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01282193090</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926142</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:02:13</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538337722.12582</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01001250472</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926145</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:02:26</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538337741.12583</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">0224905644</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926147</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:02:32</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538337742.12584</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">0663212696</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926150</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:02:42</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538337757.12587</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">0224905644</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926155</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:02:57</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538337767.12588</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">0663212696</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926156</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:02:59</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538337773.12589</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">0224905644</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926160</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:03:27</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538337796.12590</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01010402084</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926162</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:03:33</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538337802.12591</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01227761098</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926164</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:03:37</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538337806.12592</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01272271285</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926165</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:03:39</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538337808.12593</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01274906644</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926166</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:03:43</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538337814.12594</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01010402084</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926169</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:03:56</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538337826.12595</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01227761098</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926172</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:04:05</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538337835.12596</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01274906644</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926176</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:04:30</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538337860.12599</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01274906644</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926178</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:04:54</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538337883.12600</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01282455710</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926181</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:05:17</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538337906.12601</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01286711717</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926182</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:05:17</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538337907.12602</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01282455710</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926184</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:05:49</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538337939.12603</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">0482322203</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926188</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:05:57</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538337956.12605</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">0552639359</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926191</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:06:02</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538337957.12606</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">033086647</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926192</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:06:11</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538337960.12607</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">0482322203</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926194</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:06:24</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538337974.12608</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01028171115</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926196</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:06:37</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538337990.12609</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01028171115</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926200</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:06:48</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338004.12610</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">0552639359</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926201</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:06:52</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338004.12611</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01028171115</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926202</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:06:57</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338007.12612</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">0248257712</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926205</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:07:08</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338018.12613</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01028171115</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926206</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:07:16</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338025.12614</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">0248257712</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926209</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:07:26</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338039.12615</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01028171115</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926214</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:07:41</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338051.12618</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01221400781</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926218</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:08:07</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338076.12620</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">0224983152</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926221</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:08:27</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338096.12621</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">0224983152</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926223</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:08:34</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338103.12622</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">0224524565</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926225</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:08:38</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338109.12623</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01028171115</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926226</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:08:44</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338114.12624</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01067860684</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926229</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:08:59</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338129.12625</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">0223598000</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926230</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:08:59</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338129.12626</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">0238516896</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926234</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:09:10</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338139.12627</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01202840404</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926235</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:09:11</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338140.12628</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">0237827451</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926236</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:09:16</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338145.12629</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">0223598000</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926238</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:09:29</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338165.12630</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">0223598000</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926242</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:09:39</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338171.12631</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">0237827451</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926244</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:09:45</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338179.12634</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">0224983152</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926245</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:09:47</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338176.12633</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">0223598000</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926250</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:10:36</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338226.12636</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01063583522</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926254</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:10:49</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338238.12637</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01145830469</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926255</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:10:53</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338243.12638</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01200038844</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926256</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:10:54</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338244.12639</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01063583522</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926258</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:11:00</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338255.12640</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">0224983152</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926260</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:11:15</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338264.12641</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01145830469</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926262</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:11:27</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338279.12642</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01200390797</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926266</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:11:39</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338289.12643</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01145830469</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926267</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:11:42</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338291.12644</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01206932535</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926268</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:11:46</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338296.12645</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01002586102</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926270</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:12:11</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338321.12646</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">0572251224</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926273</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:12:26</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338336.12647</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01224925556</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926274</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:12:32</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338341.12648</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01206932535</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926276</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:12:48</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338358.12649</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01212358188</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926278</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:13:47</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338417.12650</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">0572251224</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926282</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:13:58</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338427.12651</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01228606636</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926283</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:14:01</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338430.12652</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01156935593</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926286</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:14:06</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338436.12653</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">0572219177</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926288</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:14:11</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338441.12654</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">0224905644</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926290</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:14:22</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338452.12656</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">0572219177</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926294</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:14:43</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338472.12657</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01002869298</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926295</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:14:44</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338473.12659</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01142250662</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926298</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:14:54</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338489.12660</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01142250662</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926303</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:16:03</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338553.12663</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01016876302</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926306</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:16:23</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338572.12664</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01010272228</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926309</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:16:58</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338607.12665</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">0227217586</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926312</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:17:05</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338621.12667</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">0224905644</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926314</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:17:15</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338625.12668</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">0227217586</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926319</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:17:25</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338641.12669</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01200390797</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926320</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:17:34</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338643.12670</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01006682534</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926322</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:18:00</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338671.12671</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">0243131102</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926324</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:19:47</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338776.12672</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01141714385</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926327</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:20:06</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338796.12673</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01141714385</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926328</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:20:16</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338806.12674</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01095887453</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926330</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:20:47</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338836.12675</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01095887453</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926334</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:21:43</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338893.12676</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01095887453</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926335</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:21:47</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338896.12677</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">0225416243</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926338</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:22:10</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338920.12679</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01141714385</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926341</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:22:26</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338936.12680</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01275361880</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926342</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:22:33</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538338942.12681</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01555686126</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926346</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:23:49</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538339026.12683</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01159778824</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926351</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:24:25</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538339055.12686</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01149435238</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926354</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:25:14</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538339103.12687</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01015792009</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78926356</Data></Cell>
+    <Cell><Data ss:Type="String">2018-09-30 22:25:33</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">abandoned</Data></Cell>
+    <Cell><Data ss:Type="String">1538339123.12688</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">ROUTING_SCRIPT</Data></Cell>
+    <Cell><Data ss:Type="String">Electrolux</Data></Cell>
+    <Cell><Data ss:Type="String">01118604222</Data></Cell>
+    <Cell><Data ss:Type="String">6123</Data></Cell>
+    <Cell><Data ss:Type="String">CALL</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>6</ActiveRow>
+     <ActiveCol>5</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
